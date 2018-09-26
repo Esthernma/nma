@@ -1,0 +1,29 @@
+.form {
+    background-color: aliceblue;
+    padding: 40px;
+    width: 30cm;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: brown;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    color: crimson;
+}
+
+.details {
+    color: palegreen;
+}
+
+#form-title {
+    font-family: cursive;
+    text-transform: capitalize;
+}
+
+#par {
+    font-family: fantasy;
+    text-transform: inherit;
+}
